@@ -1,1 +1,1 @@
-label: opcode op1, op2, op__3
+label: opcode op1, op2, #0x10
